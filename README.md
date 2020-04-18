@@ -1,4 +1,4 @@
-# Udacity_Image_Classifier
+# Flowers_Image_Classifier
 
 ### Objective:
 I train an Image classifier and created a Python application in Pytorch to recognize different species of flowers.
