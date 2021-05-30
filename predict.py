@@ -1,5 +1,4 @@
 
-#### couldnt finish this part because my function dont work, need help on that 
 import torch
 from torch import nn
 from torch import optim
