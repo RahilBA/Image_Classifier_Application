@@ -11,7 +11,7 @@ parser.add_argument('--hideln_layer2' , dest='hidden_layer2' , action ='store' ,
 parser.add_argument('--structure' , dest='structure' , action ='store' , type = str, default= 'densenet121')
 parser.add_argument('--lr' , dest='lr' , action ='store' , type = int, default= 0.001)
 parser.add_argument('--dropout' , dest='dropout' , action ='store' , type = int, default= 0.05)                    
-parser.add_argument('--lr' , dest='lr' , action ='store' , type = int, default= 0.001)
+# parser.add_argument('--lr' , dest='lr' , action ='store' , type = int, default= 0.001)
 parser.add_argument('--save_directory' , dest='save_directory' , action ='store' , default = './checkpoint.pth')
 
 
